@@ -7,6 +7,7 @@ This repository contains various projects related to Fatak PLC. The projects are
 - [Introduction](#introduction)
 - [Projects](#projects)
 - [Installation](#installation)
+- [Hardware](#Harware)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -37,6 +38,13 @@ Each project directory contains its own set of files, including source code, con
 ## Installation
 
 To use the projects in this repository, you need to have a Fatak PLC device and the necessary software and tools installed. Please refer to the official Fatak PLC documentation for detailed installation instructions.
+
+## Hardware
+I am Using Fatak for PLC and Kinco for HMI the Modules include:
+- **FBs-20MCJ2-AC :**  A **compact and versatile** PLC module with **advanced functionality**, featuring a wide range of **discrete input and output registers** for flexible and efficient automation and control applications..
+- **FBs4A2D :** The FBs4A2D module is a versatile PLC module with **2 analog input and output channels**, enabling precise monitoring and control in industrial applications
+- **FBs-2TC :** The FBs2TC module is a compact PLC module with **2 thermocouple input capability**, providing **accurate temperature measurement** for industrial control applications.
+- **FBs-CM25E :** The FBsCM25E module is a powerful PLC module with **Ethernet communication** capability, offering **advanced networking** for efficient industrial automation and control systems
 
 ## Usage
 
