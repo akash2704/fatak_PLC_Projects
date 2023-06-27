@@ -7,10 +7,9 @@ This repository contains various projects related to Fatak PLC. The projects are
 - [Introduction](#introduction)
 - [Projects](#projects)
 - [Installation](#installation)
-- [Hardware](#Harware)
+- [Hardware](#Hardware)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -50,9 +49,9 @@ I am Using Fatak for PLC and Kinco for HMI the Modules include:
 User
 Use this steps to run the programs in your computer 
 1. Clone the repository in your local computer
-...
-   git clone https://github.com/akash2704/fatak_PLC_Projects.git
-...
+```
+$ git clone https://github.com/akash2704/fatak_PLC_Projects.git
+```
 3. opent Winproladder software to run the program
 4. go to file
 go to open and select open icon where you have to go to the derictory where the clob=ned drictory is present there select the program that you need.
